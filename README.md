@@ -1,4 +1,4 @@
-# HOURSBOOST
+# ⏱️ HOURSBOOST ⏱️
 
 📌 Download and install the latest stable version of nodejs (currently v14.18.1) Install all requirements by executing the _Install.bat file.
 
