@@ -8,3 +8,5 @@
 📌 Join arms race server
 
 📌 Start _StartBoost.bat
+
+https://discord.gg/6657DJ4bXQ
